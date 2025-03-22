@@ -1,6 +1,6 @@
 # PillNote
 
-### Welcome to my very first personal project! As someone who is very passionate about health and technology I wanted to make an app that aligned with my interests.
+### Welcome to my very first personal project! As someone who is passionate about health and technology I wanted to make an app that aligned with my interests.
 
 ### This is where **PillNote** comes in!
 
